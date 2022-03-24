@@ -3,14 +3,13 @@
 </h1>
 
 <p align='center'>
-    Welcome to one of my many creative spaces. I am studying for my final bachelor semester in
-    <a href="https://en.itu.dk/programmes/bsc-programmes/digital-design-and-interactive-technologies">Digital Design and Interactive Technologies</a> at the
-    <a href="https://en.itu.dk/">IT-University of Copenhagen</a>. 
-    My plan is to persue a Master's degree directly afterward.
+    Welcome to one of my many creative spaces. I am studying my final year in
+    <a href=https://en.itu.dk/Programmes/MSc-Programmes/Digital-Design-and-Interactive-Technologies">Digital Design and Interactive Technologies</a> at the
+    <a href="https://en.itu.dk/">IT-University of Copenhagen</a>.
 </p>
 
 <p align = 'center'>
-    I also work at the <a href = "https://www.teknologisk.dk/">Danish Technological Institute</a>, as a student assistant, writing Python scripts to automate  processes regarding data visualizaiton and database management. I also work as a teaching assistant at my university in <a href = "https://learnit.itu.dk/local/coursebase/view.php?ciid=550&s=ft"> Physical Computing</a>, helping other students getting started on the Arduino platform.
+    I also work at the <a href = "https://www.teknologisk.dk/">Danish Technological Institute</a>, as a student assistant, writing Python scripts to automate  processes regarding data visualizaiton and database management. I have also worked as a teaching assistant at my university in <a href = "https://learnit.itu.dk/local/coursebase/view.php?ciid=550&s=ft"> Physical Computing</a>, helping other students getting started on the Arduino platform.
 </p>
 
 <p align = 'center'>
