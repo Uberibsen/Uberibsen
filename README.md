@@ -1,55 +1,29 @@
-<h1 align='center'>
-    Hello there, I'm Jonas! 👋
-</h1>
+# 👋 Greetings, I'm Jonas! 
+![GitHub followers](https://img.shields.io/github/followers/Uberibsen?label=github%20followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/Uberibsen?label=github%20stars&style=for-the-badge)
 
-<p align='center'>
-    Welcome to one of my many creative spaces. I am studying my final year in
-    <a href=https://en.itu.dk/Programmes/MSc-Programmes/Digital-Design-and-Interactive-Technologies">Digital Design and Interactive Technologies</a> at the
-    <a href="https://en.itu.dk/">IT-University of Copenhagen</a>.
-</p>
+Welcome to one of my many creative spaces. I am currently writing my master's thesis at the IT University of Copenhagen in Digital Design and Interactive technologies. According to plan, I'll be standing with my diploma this summer and a full-time job.
 
-<p align = 'center'>
-    I also work at the <a href = "https://www.teknologisk.dk/">Danish Technological Institute</a>, as a student assistant, writing Python scripts to automate  processes regarding data visualizaiton and database management. I have also worked as a teaching assistant at my university in <a href = "https://learnit.itu.dk/local/coursebase/view.php?ciid=550&s=ft"> Physical Computing</a>, helping other students getting started on the Arduino platform.
-</p>
+Besides academia, I work at the Danish Technological Institute as a student assistant, writing Python scripts to automate processes regarding data visualization and database management. Moreover, I also have a second part-time job at my university as a teaching assistant in physical Physical Computing, helping other students get started on the Arduino platform.
 
-<p align = 'center'>
-    I have always been very technically minded and have recently found quite the interest in programming. For my projects, I tend to lean towards a tangible goal, typically with a physical product.
-</p>
+## What do I like to make?
+I have always been very technically minded and have recently found quite an interest in programming and prototyping.  My interests have led me to develop skills in graphic design, mechatronics, and the overall production of digital and physical artifacts. In addition, I also like to learn from myself, and very much want to
+share my knowledge if there should be interest in it.
 
-<h2 align = 'center'> 
-    Where to find me
-</h2>
+I believe heavily in open-source software and use it myself whenever I can. For my own projects, I publish my code here for full availability to encourage others to develop further or gather inspiration for their own projects. While it’s not my core competence, it’s an aspect of my design process I quite enjoy.
 
-<p align = 'center'>
-<a href="https://www.linkedin.com/in/joib/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## Where to find me?   
+![](https://img.shields.io/badge/LinkedIn-in/joib-blue?style=for-the-badge&logo=linkedin)
+![](https://img.shields.io/badge/Discord-Ilizid%237249-blue?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/Email-jonas@beepjib.com-blue?style=for-the-badge&logo=Gmail)
 
-<a href="mailto:uberibsen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Main languages and platforms
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-<h2 align = 'center'> 
-    Main languages
-</h2>
-
-<p align = 'center'>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-</p>
-
-<h2 align = 'center'> 
-    Support me
-</h2>
-<p align = 'center'>
-    If you like what I do and would like to support me by keeping me awake during the day, follow the link below!
-</p>
-
-<p align = 'center'>
-    <a href="https://www.buymeacoffee.com/uberibsen" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+## Support my future projects
+<p align = 'left'>
+    <a href="https://www.buymeacoffee.com/beepjib" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>                                                                                                            
