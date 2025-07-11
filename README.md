@@ -15,7 +15,7 @@ I believe heavily in open-source software and use it myself whenever I can. For 
 ## Where to find me?   
 ![](https://img.shields.io/badge/LinkedIn-in/joib-blue?style=for-the-badge&logo=linkedin)
 ![](https://img.shields.io/badge/Discord-Ilizid%237249-blue?style=for-the-badge&logo=discord)
-![](https://img.shields.io/badge/Email-jonas@beepjib.com-blue?style=for-the-badge&logo=Gmail)
+![](https://img.shields.io/badge/Email-uberibsen@gmail.com-blue?style=for-the-badge&logo=Gmail)
 
 ## Main languages and platforms
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
